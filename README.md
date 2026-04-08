@@ -1,7 +1,7 @@
 # Hardik Gupta
 
-Learning to code from scratch.
-Documenting my journey step by step.
+Learning to code from scratch.  
+Documenting my journey step by step.  
 Consistently learning and improving every day.
 
 ## Current Focus
