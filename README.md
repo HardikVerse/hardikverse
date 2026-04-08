@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hardik Gupta
 
-<!--
-**HardikVerse/hardikverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to code from scratch.
+Documenting my journey step by step.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming fundamentals
+* Understanding how computers work
+* Building small projects
+
+## Goal
+
+Become highly skilled and build meaningful things.
