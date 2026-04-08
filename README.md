@@ -2,6 +2,7 @@
 
 Learning to code from scratch.
 Documenting my journey step by step.
+Consistently learning and improving every day.
 
 ## Current Focus
 
@@ -11,4 +12,4 @@ Documenting my journey step by step.
 
 ## Goal
 
-Become highly skilled and build meaningful things.
+Build real-world projects and reach a high level of expertise.
