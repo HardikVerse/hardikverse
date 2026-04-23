@@ -10,6 +10,3 @@ Consistently learning and improving every day.
 * Understanding how computers work
 * Building small projects
 
-## Goal
-
-Build real-world projects and reach a high level of expertise.
