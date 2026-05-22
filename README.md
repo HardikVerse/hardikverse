@@ -1,8 +1,9 @@
 # Hardik Gupta
 
-Learning to code from scratch.
-Building projects and documenting my journey.
-Improving consistently, one step at a time.
+* Learning to code from scratch.
+* Building projects and documenting my journey.
+* Improving consistently...
+  
 ## Current Focus
 
 * Programming fundamentals
